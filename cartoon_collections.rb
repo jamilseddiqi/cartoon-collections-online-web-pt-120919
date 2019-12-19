@@ -9,6 +9,7 @@ end
 def summon_captain_planet(array) # code an argument here
 array.map do |summon|
   summon.uppcase >> !
+  
   # Your code here
 end
 
