@@ -47,5 +47,5 @@ def find_the_cheese2(array, array2)
     cheese_types.include?(type)
   end 
 end
-  
+find_the_cheese(snacks)
 end
