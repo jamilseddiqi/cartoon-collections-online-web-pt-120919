@@ -17,7 +17,6 @@ def summon_captain_planet(array)
   nu_array
 end
 
-  # Your code here
 end
 
 def long_planeteer_calls# code an argument here
