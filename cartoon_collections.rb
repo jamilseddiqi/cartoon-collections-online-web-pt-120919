@@ -39,5 +39,15 @@ end
 
 def find_the_cheese# code an argument here
   # the array below is here to help
+  
   cheese_types = ["cheddar", "gouda", "camembert"]
+snacks = ["crackers", "gouda", "thyme"]
+
+def find_the_cheese2(array, array2)
+  cheese_types = array2
+    array.find do |type|
+    cheese_types.include?(type)
+  end 
+end
+  
 end
